@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1696089717 source:c:\users\ash\desktop\projects\lms\lms\main.cpp
+	<iostream>
+	<conio.h>
+	<string.h>
+
